@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏯 龙川文化 · skill
+# 🏯 龙川文化.skill
 
 <p align="center">
   <sub>龙川县 24 镇文化推广与非遗传播</sub>
